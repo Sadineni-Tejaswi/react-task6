@@ -87,7 +87,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Chethan N V</Logo>
+        <Logo>Sadineni Tejaswi</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -109,7 +109,9 @@ function Footer() {
             <InstagramIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2023 Chethan N V. All rights reserved.</Copyright>
+        <Copyright>
+          &copy; 2023 Sadineni Tejaswi. All rights reserved.
+        </Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
